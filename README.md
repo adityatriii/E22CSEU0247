@@ -11,4 +11,21 @@ This project is a full-stack application built as part of an internship online a
 
 ---
 
+📬 API Endpoints
+Method	Endpoint	Description
+POST	/token	Get access token
+GET	/test/users/1/posts	Fetch posts for user 1
+🧪 Tools Used
+Node.js
+
+Express
+
+React.js
+
+Postman
+
+JWT
+
+Git & GitHub
+
 
